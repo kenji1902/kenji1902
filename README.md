@@ -8,7 +8,7 @@
 
 <!-- Oracle badge (uses proxy to crop to 128x128) -->
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=34B844188C891FDF69F78C6916ADECB5F2F3F3DF8DE1BC42DC2F5071B70B130C">
-  <img src="https://images.weserv.nl/?url=https%3A%2F%2Fbrm-workforce.oracle.com%2Fpdf%2Fcertview%2Fimages%2FJSE21OCP.png&w=128&h=128&fit=cover">
+  <img src="https://github.com/kenji1902/kenji1902.github.io/blob/main/assets/home/images/Java-SE-21-Professional%20Badge.png?raw=true" width="128" height="128">
 </a>
 
 <!-- Python badge (original) -->
